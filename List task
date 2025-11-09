@@ -1,0 +1,11 @@
+l1 = [12,-7,5,64,-14]
+print("Positive number in list 1: ")
+for x in l1:
+    if x>0:
+        print(x )
+
+print("\nPositive number in list 2: ")
+l2 = [12,14,-95,3]
+for x in l2:
+    if x>0:
+        print(x)
